@@ -1,4 +1,13 @@
 print("Welcome to the Love Calculator!")
+
+print("..... (¯`v´¯)♥")
+print(".......•.¸.•´")
+print("....¸.•´")
+print("... (")
+print(" ☻/")
+print("/▌♥♥")
+print("/ \ ♥♥")
+
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 
